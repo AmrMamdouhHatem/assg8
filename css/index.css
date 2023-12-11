@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 40px;
+
+}
+
+h1 {
+    font-size: 80px;
+    font-family: 'Anton';
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover {
+    background-color: green;
+}
